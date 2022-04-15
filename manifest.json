@@ -1,0 +1,17 @@
+{
+  "name": "Google Calendar Right Click",
+  "description": "create Google Calendar event with Title or Description from Right Click Menu",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "img/16.png",
+    "128": "img/128.png"
+  }
+}
