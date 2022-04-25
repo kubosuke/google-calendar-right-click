@@ -8,7 +8,7 @@
 
   <strong>create Google Calendar event with Title or Description from Right Click Menu</strong>
 
-  <sub>Install🖥️ from <a href="https://google.com">Chrome Webstore</a></sub>
+  <sub>Install🖥️ from <a href="https://chrome.google.com/webstore/detail/google-calendar-right-cli/gecagpecilkplgfkfpbpfhjkfelfdocd?hl=en&authuser=0">Chrome Webstore</a></sub>
 </div>
 
 https://user-images.githubusercontent.com/40480197/163548510-6e284a6c-8f92-4855-81dc-86bf82ce58d0.mov
